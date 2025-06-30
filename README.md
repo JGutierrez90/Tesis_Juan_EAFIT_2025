@@ -11,4 +11,5 @@ Contenido
 📚 Bibliografía: acceso a la biblioteca de referencias académicas utilizadas, gestionadas a través de Zotero.
 
 Enlace a la biblioteca Zotero
-🔗 Acceder a la bibliografía en Zotero
+🔗 https://www.zotero.org/jgutierrez90/collections/UL237PCW
+
